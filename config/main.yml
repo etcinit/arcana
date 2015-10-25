@@ -1,0 +1,6 @@
+conduit:
+  user: etcinit
+  api: ''
+  cert: ''
+misc:
+  ignore-ca: false
